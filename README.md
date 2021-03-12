@@ -1,2 +1,2 @@
-# Pandas
+# Pandas Crash Course
 Pandas Crash Course
